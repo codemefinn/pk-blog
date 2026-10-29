@@ -6,5 +6,13 @@
     "cover": "https://images.unsplash.com/photo-1499750310107-5fef28a66643",
     "excerpt": "Welcome to my blog! This is a sample post to test the Carrd Blog template.",
     "path": "posts/first-post.md"
+  },
+  {
+    "title": "Taking Better Project Notes",
+    "slug": "taking-better-project-notes",
+    "date": "2026-10-07",
+    "cover": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32",
+    "excerpt": "Clear notes make it easier to remember decisions and pick up where you left off.",
+    "path": "posts/taking-better-project-notes.md"
   }
 ]
