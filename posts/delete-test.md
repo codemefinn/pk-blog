@@ -1,7 +1,8 @@
 ---
 title: Delete Test
+slug: delete-test
 date: 2026-10-29
-description: Testing article deletion.
+excerpt: Testing article deletion.
 ---
 
 # Delete Test
