@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: Test multi- First Post
 slug: first-post
 date: 2026-10-29
 excerpt: Testing automatic publishing after an index update.
