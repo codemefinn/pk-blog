@@ -22,5 +22,13 @@
     "cover": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32",
     "excerpt": "Clear notes make it easier to remember decisions and pick up where you left off.",
     "path": "posts/taking-better-project-notes.md"
+  },
+  {
+    "title": "Building a Daily Writing Habit",
+    "slug": "building-a-daily-writing-habit",
+    "date": "2026-10-03",
+    "cover": "https://images.unsplash.com/photo-1644088379091-d574269d422f",
+    "excerpt": "Small, repeatable steps can make writing feel easier and more consistent.",
+    "path": "posts/building-a-daily-writing-habit.md"
   }
 ]
