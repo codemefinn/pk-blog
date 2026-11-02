@@ -6,7 +6,7 @@ cover: "https://widget-tip.carrd.co/assets/images/image01.svg?v=65f1d69e"
 excerpt: Set up your own blog with GitHub and Carrd in just a few minutes. Follow this simple guide to get your articles published on your website.
 ---
 
-![img](https://widget-tip.carrd.co/assets/images/icon512.png){width=80px round=50%} [__~codemefinn~__]{#777}  
+![img](https://widget-tip.carrd.co/assets/images/icon512.png) [__~codemefinn~__]{#777}  
 
 ## Getting Started
 
