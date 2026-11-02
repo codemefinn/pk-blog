@@ -1,10 +1,10 @@
 ---
-title: [Getting]{#216e5b} Started with Your Carrd Blog
+title: "[Getting]{#216e5b} Started with Your Carrd Blog"
 slug: getting-started-with-carrd-blog
 date: 2026-11-03
 cover: "https://widget-tip.carrd.co/assets/images/image01.svg?v=65f1d69e"
 excerpt: Set up your own blog with GitHub and Carrd in just a few minutes. Follow this simple guide to get your articles published on your website.
-author: codemefinn
+author: "__codemefinn__"
 icon: https://widget-tip.carrd.co/assets/images/icon512.png?v=209bae9e
 ---
 
