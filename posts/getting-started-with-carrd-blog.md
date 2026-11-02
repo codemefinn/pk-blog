@@ -14,6 +14,8 @@ Before we begin, you'll need **Carrd Pro Standard or higher**, as this setup use
 Don't worry if you've never used GitHub before. You don't need any coding experience to get your blog up and running.
 
 ### 1. Create Your Blog Repository
+![image](https://images.unsplash.com/photo-1791395533990-8d527f003887)
+
 
 First, you'll need a [GitHub account](https://github.com/).
 What is GitHub? It's a platform where millions of developers store and manage their code. But you don't have to be a developer to use it. GitHub is also a great place to organize and manage your blog articles.
