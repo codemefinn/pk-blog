@@ -1,5 +1,5 @@
 ---
-title: [Getting]{pink} Started with Your Carrd Blog
+title: [Getting]{#216e5b} Started with Your Carrd Blog
 slug: getting-started-with-carrd-blog
 date: 2026-11-03
 cover: "https://widget-tip.carrd.co/assets/images/image01.svg?v=65f1d69e"
