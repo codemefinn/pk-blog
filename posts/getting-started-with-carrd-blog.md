@@ -6,6 +6,8 @@ cover: "https://widget-tip.carrd.co/assets/images/image01.svg?v=65f1d69e"
 excerpt: Set up your own blog with GitHub and Carrd in just a few minutes. Follow this simple guide to get your articles published on your website.
 ---
 
+[^codemefinn^]{#999999}  ![img](https://widget-tip.carrd.co/assets/images/image01.svg?v=65f1d69e){width=120px}
+
 ## Getting Started
 
 Before we begin, you'll need **Carrd Pro Standard or higher**, as this setup uses Carrd's Embed element.
