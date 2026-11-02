@@ -2,7 +2,7 @@
 title: Your Carrd Website, Now with a Blog
 slug: simpler-blogging-with-carrd
 date: 2026-11-02
-cover: "https://widget-tip.carrd.co/assets/images/image01.svg?v=65f1d69e"
+cover: "https://widget-tip.carrd.co/assets/images/image01.svg?v=9b80c83e"
 excerpt: Manage your articles with GitHub and let Carrd handle the design. A simple, flexible way to bring a blog to your website.
 ---
 
