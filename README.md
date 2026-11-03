@@ -71,12 +71,13 @@ Use standard Markdown image syntax:
 ![Image description](https://example.com/image.jpg)
 ```
 
-You can optionally add `{}` to control image width and alignment. These settings are not required.
+You can optionally add `{}` to control image width, round and alignment. These settings are not required.
 
 ```markdown
 ![Image](https://example.com/image.jpg){width=50%}
 ![Image](https://example.com/image.jpg){align=center}
-![Image](https://example.com/image.jpg){width=80% align=center}
+![Image](https://example.com/image.jpg){round=12px}
+![Image](https://example.com/image.jpg){width=80% round=50% align=center}
 ```
 
 ### Line Breaks
