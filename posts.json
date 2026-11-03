@@ -10,17 +10,17 @@
     "excerpt": "Set up your own blog with GitHub and Carrd in just a few minutes. Follow this simple guide to get your articles published on your website.",
     "path": "posts/getting-started-with-carrd-blog.md",
     "sha": "e57f4d75479bf9826ea2bd8e6c462e59c20ed7b2",
-    "updated_at": "2026-11-03T11:29:19+08:00"
+    "updated_at": "2026-11-03T11:31:23+08:00"
   },
   {
     "title": "Your Carrd Website, Now with a Blog",
     "slug": "simpler-blogging-with-carrd",
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "cover": "https://widget-tip.carrd.co/assets/images/image01.svg?v=9b80c83e",
     "excerpt": "Manage your articles with GitHub and let Carrd handle the design. A simple, flexible way to bring a blog to your website.",
     "path": "posts/simpler-blogging-with-carrd.md",
-    "sha": "fe26fa13e4598f6baaf09e1e08c758cf3fde1263",
-    "updated_at": "2026-11-03T11:29:19+08:00"
+    "sha": "5c69b163fc0d0fe27154c7e9b0863a9e06e36d5d",
+    "updated_at": "2026-11-03T11:31:23+08:00"
   },
   {
     "title": "Organizing a Small Workspace",
@@ -30,7 +30,7 @@
     "excerpt": "Make a small desk easier to use by keeping the essentials within reach.",
     "path": "posts/organizing-a-small-workspace.md",
     "sha": "a8ae5c2b061eac7bf3bbeb7fbb74136a9efaf5d9",
-    "updated_at": "2026-11-03T11:29:19+08:00"
+    "updated_at": "2026-11-03T11:31:23+08:00"
   },
   {
     "title": "Taking Better Project Notes",
@@ -40,6 +40,6 @@
     "excerpt": "Clear notes make it easier to remember decisions and pick up where you left off.",
     "path": "posts/taking-better-project-notes.md",
     "sha": "9ad82e44f3076b85aae6e4be13b1784c89246ebd",
-    "updated_at": "2026-11-03T11:29:19+08:00"
+    "updated_at": "2026-11-03T11:31:23+08:00"
   }
 ]
