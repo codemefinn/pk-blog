@@ -1,5 +1,18 @@
 [
   {
+    "author": null,
+    "author_url": null,
+    "icon": null,
+    "title": "Getting Started with Your Carrd Blog",
+    "slug": "getting-started-with-carrd-blog",
+    "date": "2026-11-03",
+    "cover": "https://widget-tip.carrd.co/assets/images/image01.svg?v=65f1d69e",
+    "excerpt": "Set up your own blog with GitHub and Carrd in just a few minutes. Follow this simple guide to get your articles published on your website.",
+    "path": "posts/getting-started-with-carrd-blog.md",
+    "sha": "7e538976b01ff36bbcfa988791fc7040992afa20",
+    "updated_at": "2026-11-03T16:48:30+08:00"
+  },
+  {
     "title": "Your Carrd Website, Now with a Blog",
     "slug": "simpler-blogging-with-carrd",
     "date": "2026-11-03",
@@ -8,19 +21,6 @@
     "path": "posts/simpler-blogging-with-carrd.md",
     "sha": "c0747768a1049d80baa7a4fe5484d70a1d9cee23",
     "updated_at": "2026-11-03T13:52:26+08:00"
-  },
-  {
-    "author": null,
-    "author_url": null,
-    "icon": null,
-    "title": "[Getting]{#216e5b} Started with Your Carrd Blog",
-    "slug": "getting-started-with-carrd-blog",
-    "date": "2026-11-03",
-    "cover": "https://widget-tip.carrd.co/assets/images/image01.svg?v=65f1d69e",
-    "excerpt": "Set up your own blog with GitHub and Carrd in just a few minutes. Follow this simple guide to get your articles published on your website.",
-    "path": "posts/getting-started-with-carrd-blog.md",
-    "sha": "e57f4d75479bf9826ea2bd8e6c462e59c20ed7b2",
-    "updated_at": "2026-11-03T10:57:15+08:00"
   },
   {
     "title": "Organizing a Small Workspace",
