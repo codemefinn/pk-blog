@@ -1,4 +1,4 @@
-# Carrd Blog Template
+# PK Blog Template - for Carrd
 
 ## 1. Add a Post
 
