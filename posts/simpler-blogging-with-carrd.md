@@ -1,33 +1,35 @@
 ---
 title: Your Carrd Website, Now with a Blog
 slug: simpler-blogging-with-carrd
-date: 2026-11-03
+date: 2026-11-04
 cover: "https://widget-tip.carrd.co/assets/images/image01.svg?v=9b80c83e"
-excerpt: Manage your articles with GitHub and let Carrd handle the design. A simple, flexible way to bring a blog to your website.
+excerpt: Combine Carrd's design flexibility with GitHub's simple content management to create a blog that feels like a natural part of your website.
 ---
 
-### Your Blog, Your Files, Your Design.
+### Your Carrd Website Can Be More Than a Landing Page
 
-Managing a blog doesn't have to be complicated.
+You've built your website with Carrd. You have the design you love, the layout just right, and everything looks the way you want.
 
-With GitHub, you can write, edit, and manage your articles anytime, anywhere — whether you're using a computer or your phone. Just like keeping a personal journal, your content stays in your own files, under your control.
+But what if you also want to publish articles, share updates, or build a collection of content over time?
 
-No complicated dashboard. No additional content management system. Just simple Markdown files that you can manage directly in your GitHub repository.
+Carrd makes it easy to create beautiful websites, but managing a growing blog is a different challenge. Adding every new article manually can quickly become tedious, and setting up an entirely separate blogging platform just to publish content feels like more than you need.
 
-### Let Carrd Do What It Does Best
+What if you could keep your website on Carrd and manage your articles somewhere else, without giving up control of your design?
 
-Your Carrd website is where your creativity comes to life.
+### A Different Way to Blog with Carrd and GitHub
 
-Design your blog to match your website's style. Choose your own layouts, typography, colors, and spacing. Your articles will automatically appear on your Carrd page without having to manually add or update content.
+That's where GitHub comes in.
 
-You don't need to stack endless sections in Carrd to maintain a growing collection of articles.
+GitHub is a platform where you can store and manage files. Instead of using a traditional blog dashboard, you keep your articles as simple Markdown files in your own GitHub repository.
 
-Carrd was built for creating beautiful websites, not storing and managing large amounts of content.
+Think of it as a folder for all your blog posts. You can create a new article, edit an existing one, or organize your content whenever you need to — without maintaining another website or content management system.
 
-Let GitHub handle your content, and let Carrd handle your design.
+With Carrd Blog, these two platforms work together:
 
-**Your content. Your files. Your website.**
+- **GitHub manages your content.** Your articles stay in your own repository, where you can write, edit, and organize them.
+- **Carrd displays your blog.** Your existing website handles the design, layout, typography, and overall reading experience.
 
-Ready to start your own blog?
+Whenever you publish an article, it can automatically appear on your Carrd website.
 
-Check out our [Getting Started Guide and set up your blog]() in just a few steps.
+Ready to give your Carrd website a blog?
+Check out our [Getting Started Guide] and set up your own Carrd Blog in just a few steps.
