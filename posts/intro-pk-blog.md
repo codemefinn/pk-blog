@@ -8,7 +8,6 @@ excerpt: Combine Carrd's design flexibility with GitHub's simple content managem
 
 ### Your Carrd Website Can Be More Than a Landing Page
 You've built your website with Carrd. You have the design you love, the layout just right, and everything looks the way you want.
-
 But what if you also want to publish articles, share updates, or build a collection of content over time?
 
 Carrd makes it easy to create beautiful websites, but it wasn't designed to store and manage a growing collection of content. Setting up an entirely separate blogging platform just to publish articles, however, may be more than you need.
@@ -30,6 +29,6 @@ With **PK Blog**, three components work together to make blogging on Carrd possi
 ⭣
 - **Carrd brings your blog to life.** Use your existing Carrd website to control the design, layout, typography, and reading experience.
 
-
+  
 Ready to give your Carrd website a blog?
-Check out our [Getting Started Guide] and set up your own Carrd Blog in just a few steps.
+Check out our [Guide](https://plugin-kitchen.carrd.co/?slug=setup-pk-blog#product) and set up your own Blog in just a few steps.
