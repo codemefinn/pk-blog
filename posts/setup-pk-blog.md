@@ -14,7 +14,7 @@ And don't worry if you've never used GitHub before. You don't need any coding ex
 First, you'll need a [GitHub account](https://github.com/).
 Once you've signed up, it's time to get the PK Blog template.
 
-Visit my GitHub profile [@codemefinn](https://github.com/codemefinn) and find the `carrd-blog-template` repository.
+Visit my GitHub profile [@codemefinn](https://github.com/codemefinn) and find the `pk-blog-template` repository.
 Open the repository and click the green **Use this template** button in the upper-right corner. Then select **Create a new repository**.
 
 Choose a name for your repository. We recommend using lowercase letters and hyphens (`-`) to keep it simple and easy to read. Make sure to set the repository visibility to **Public**.
