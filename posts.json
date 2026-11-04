@@ -1,5 +1,15 @@
 [
   {
+    "title": "Your Carrd Website, Now with a Blog",
+    "slug": "simpler-blogging-with-carrd",
+    "date": "2026-11-04",
+    "cover": "https://widget-tip.carrd.co/assets/images/image01.svg?v=9b80c83e",
+    "excerpt": "Combine Carrd's design flexibility with GitHub's simple content management to create a blog that feels like a natural part of your website.",
+    "path": "posts/simpler-blogging-with-carrd.md",
+    "sha": "b0d26244ecd28671b1bb7e5186e2e779c5a09737",
+    "updated_at": "2026-11-04T11:37:13+08:00"
+  },
+  {
     "title": "Getting Started with Your Carrd Blog",
     "slug": "getting-started-with-carrd-blog",
     "date": "2026-11-04",
@@ -8,15 +18,5 @@
     "path": "posts/getting-started-with-carrd-blog.md",
     "sha": "138dfeb041cf4579c6e1dbf4a53eb985cd073b3f",
     "updated_at": "2026-11-04T10:48:27+08:00"
-  },
-  {
-    "title": "Your Carrd Website, Now with a Blog",
-    "slug": "simpler-blogging-with-carrd",
-    "date": "2026-11-03",
-    "cover": "https://widget-tip.carrd.co/assets/images/image01.svg?v=9b80c83e",
-    "excerpt": "Manage your articles with GitHub and let Carrd handle the design. A simple, flexible way to bring a blog to your website.",
-    "path": "posts/simpler-blogging-with-carrd.md",
-    "sha": "c0747768a1049d80baa7a4fe5484d70a1d9cee23",
-    "updated_at": "2026-11-03T13:52:26+08:00"
   }
 ]
