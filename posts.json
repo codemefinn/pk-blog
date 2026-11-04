@@ -31,15 +31,5 @@
     "path": "posts/organizing-a-small-workspace.md",
     "sha": "a8ae5c2b061eac7bf3bbeb7fbb74136a9efaf5d9",
     "updated_at": "2026-10-29T12:41:35+08:00"
-  },
-  {
-    "title": "Taking Better Project Notes",
-    "slug": "taking-better-project-notes",
-    "date": "2026-10-07",
-    "cover": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32",
-    "excerpt": "Clear notes make it easier to remember decisions and pick up where you left off.",
-    "path": "posts/taking-better-project-notes.md",
-    "sha": "9ad82e44f3076b85aae6e4be13b1784c89246ebd",
-    "updated_at": "2026-10-29T12:40:50+08:00"
   }
 ]
