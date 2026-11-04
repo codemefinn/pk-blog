@@ -1,21 +1,16 @@
 ---
 title: "Getting Started with Your Carrd Blog"
 slug: getting-started-with-carrd-blog
-date: 2026-11-03
+date: 2026-11-04
 cover: "https://widget-tip.carrd.co/assets/images/image01.svg?v=65f1d69e"
 excerpt: Set up your own blog with GitHub and Carrd in just a few minutes. Follow this simple guide to get your articles published on your website.
-author: null
-author_url: null
-icon: null
 ---
 
 ## Getting Started
-
 Before we begin, you'll need **Carrd Pro Standard or higher**, as this setup uses Carrd's Embed element.
 Don't worry if you've never used GitHub before. You don't need any coding experience to get your blog up and running.
 
 ### 1. Create Your Blog Repository
-
 First, you'll need a [GitHub account](https://github.com/).
 What is GitHub? It's a platform where millions of developers store and manage their code. But you don't have to be a developer to use it. GitHub is also a great place to organize and manage your blog articles.
 
