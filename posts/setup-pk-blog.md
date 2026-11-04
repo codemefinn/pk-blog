@@ -51,6 +51,7 @@ Your GitHub articles should now appear on your website automatically!
 ### 4. Customize Your Blog
 Want to make your blog fit your website perfectly?
 There are a few additional configuration options you can adjust in the Embed Config:
+
 - `data-posts-per-page` — Number of articles displayed per page.
 - `data-pagination` — Carrd element ID for the pagination controls.
 - `data-articles-section` — Carrd section ID for the article list.
@@ -59,8 +60,7 @@ There are a few additional configuration options you can adjust in the Embed Con
   
 You can customize these settings to match your own Carrd layout. If you're already familiar with Carrd's elements and IDs, you'll know exactly what to do.
 
-And that's it!
-Your blog is now connected to GitHub, and publishing new articles is as simple as editing a file.
+And that's it. Your blog is now connected to GitHub, and publishing new articles is as simple as editing a file.
 
 More features are on the way as we continue improving the experience.
-Stay tuned and follow PK on [X](https://twitter.com/Plugin_Kitchen) for updates!
+Stay tuned and follow PK on [X](https://twitter.com/Plugin_Kitchen) for updates.
