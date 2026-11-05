@@ -33,7 +33,7 @@ You can create, edit, and manage your articles directly on GitHub, whether you'r
 For now, feel free to take a look at the instructions. You can always come back to them when you're ready to publish your first article.
 
 ### 3. Display Your Blog on Carrd
-Now for the fun part!
+Now for the fun part.
 
 Start with the [PK Blog Template](https://carrd.com/build/6361659118c1e589) I've prepared for this guide.
 At the top of the template, find the **Embed Config** code.
