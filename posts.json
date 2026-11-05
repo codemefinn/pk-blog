@@ -7,7 +7,7 @@
     "excerpt": "Combine Carrd's design flexibility with GitHub's simple content management to create a blog that feels like a natural part of your website.",
     "path": "posts/intro-pk-blog.md",
     "sha": "1a90ba1ccb394a7384a130bc5b1f755cccb0036c",
-    "updated_at": "2026-11-05T13:07:55+08:00"
+    "updated_at": "2026-11-05T15:03:14+08:00"
   },
   {
     "title": "Set Up Your PK Blog",
@@ -16,7 +16,7 @@
     "cover": "https://widget-tip.carrd.co/assets/images/gallery01/839cacfa.svg?v=763e2f65",
     "excerpt": "Get your blog up and running on Carrd with GitHub and PK Blog. Follow this step-by-step guide to set up your repository, connect your website, and publish your first article.",
     "path": "posts/setup-pk-blog.md",
-    "sha": "3bdd5db616c3e84bd75171f48c68b9886f98ca60",
-    "updated_at": "2026-11-05T13:07:55+08:00"
+    "sha": "562b19a32e3f9b5a49b6ea1acb0a951e28fe66a1",
+    "updated_at": "2026-11-05T15:03:14+08:00"
   }
 ]
