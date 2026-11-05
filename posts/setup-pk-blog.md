@@ -2,7 +2,7 @@
 title: "Set Up Your PK Blog"
 slug: setup-pk-blog
 date: 2026-11-05
-cover: "https://widget-tip.carrd.co/assets/images/image01.svg?v=65f1d69e"
+cover: "https://widget-tip.carrd.co/assets/images/gallery01/839cacfa.svg?v=763e2f65"
 excerpt: Get your blog up and running on Carrd with GitHub and PK Blog. Follow this step-by-step guide to set up your repository, connect your website, and publish your first article.
 ---
 
