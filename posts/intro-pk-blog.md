@@ -1,7 +1,7 @@
 ---
 title: Introducing PK Blog
 slug: intro-pk-blog
-date: 2026-11-05
+date: 2026-11-04
 cover: "https://widget-tip.carrd.co/assets/images/image01.svg?v=9b80c83e"
 excerpt: Combine Carrd's design flexibility with GitHub's simple content management to create a blog that feels like a natural part of your website.
 ---
