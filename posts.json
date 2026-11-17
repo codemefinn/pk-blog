@@ -1,6 +1,19 @@
 [
   {
     "tags": [
+      "tips"
+    ],
+    "title": "Code Block Embed Position",
+    "slug": "code-block-embed-position",
+    "date": "2026-11-17",
+    "cover": "",
+    "excerpt": "When adding custom code to Carrd using Embed elements, choose the appropriate Style option for each type of code. - CSS ( <style ... </style ) — Set the Embed P...",
+    "path": "posts/code-block-embed-position.md",
+    "sha": "cade3111963aeb124138227f7aff46eb2758f184",
+    "updated_at": "2026-11-17T10:31:19+08:00"
+  },
+  {
+    "tags": [
       "pkBlog"
     ],
     "title": "Introducing PK Blog",
@@ -10,7 +23,7 @@
     "excerpt": "Combine Carrd's design flexibility with GitHub's simple content management to create a blog that feels like a natural part of your website.",
     "path": "posts/intro-pk-blog.md",
     "sha": "86dc9e04f70fbdb2cdf9a7d0be507e58b8126e29",
-    "updated_at": "2026-11-17T10:27:01+08:00"
+    "updated_at": "2026-11-17T10:31:19+08:00"
   },
   {
     "tags": [
@@ -23,6 +36,6 @@
     "excerpt": "Get your blog up and running on Carrd with GitHub and PK Blog. Follow this step-by-step guide to set up your repository, connect your website, and publish your first article.",
     "path": "posts/setup-pk-blog.md",
     "sha": "71e1929344523eaa71bff583085b865c7f81922c",
-    "updated_at": "2026-11-17T10:27:01+08:00"
+    "updated_at": "2026-11-17T10:31:19+08:00"
   }
 ]
