@@ -5,6 +5,7 @@ date: 2026-11-05
 excerpt: "~Get your blog up and running on Carrd with GitHub and PK Blog. Follow this step-by-step guide to set up your repository, connect your website, and publish your first article.~"
 tags:
   - PK Blog
+pin: true
 ---
 
 ## Getting Started
