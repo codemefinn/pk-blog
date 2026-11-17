@@ -1,9 +1,9 @@
 ---
 title: "Create a Column-Like Layout"
 slug: "create-a-column-like-layout"
-date: "2026-11-17"
+date: "~2026-11-17~"
 tags:
-  - tips
+  - Carrd Tips
 excerpt: "~Create a more flexible column-like layout in Carrd using a two-column gallery and a transparent image.~"
 ---
 
