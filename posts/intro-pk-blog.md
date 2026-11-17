@@ -4,7 +4,7 @@ slug: intro-pk-blog
 date: 2026-11-05
 excerpt: "~Combine Carrd's design flexibility with GitHub's simple content management to create a blog that feels like a natural part of your website.~"
 tags:
-  - Carrd Tips
+  - PK Blog
 ---
 
 ### Your Carrd Website Can Be More Than a Landing Page
