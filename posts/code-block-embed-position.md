@@ -1,10 +1,10 @@
 ---
 title: "Code Block Embed Position"
 slug: "code-block-embed-position"
-date: "2026-11-17"
+date: "~2026-11-17~"
 excerpt: "~Where to place CSS, JavaScript, and HTML when adding custom code to Carrd.~"
 tags:
-  - tips
+  - Carrd Tips
 ---
 
 When adding custom code to Carrd using Embed elements, choose the appropriate **Style** option for each type of code.
