@@ -11,7 +11,7 @@ CSS properties give you control over the appearance and spacing of elements on y
 
 For example, this snippet applies several styles to the element with the ID `text01`:
 
-```css id="k8m2vx"
+```css
 #text01 {
   opacity: 0.8;
   padding: 0 0 1rem 1rem;
