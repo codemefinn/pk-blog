@@ -3,6 +3,19 @@
     "tags": [
       "Carrd Tips"
     ],
+    "title": "Where to Start III",
+    "slug": "where-to-start-iii",
+    "date": "2026-11-27",
+    "cover": "",
+    "excerpt": "~A simple way to manage alignment, spacing, and animation settings in Carrd by working from the Page down to individual elements.~",
+    "path": "posts/where-to-start-iii.md",
+    "sha": "dc093493fcf1050f54c70a5fedb3247bbc20efca",
+    "updated_at": "2026-11-17T12:43:42+08:00"
+  },
+  {
+    "tags": [
+      "Carrd Tips"
+    ],
     "title": "Where to Start II",
     "slug": "where-to-start-ii",
     "date": "2026-11-26",
@@ -10,7 +23,7 @@
     "excerpt": "~Learn when and why to use Carrd's Container element to style sections, organize content, and create column-based layouts.~",
     "path": "posts/where-to-start-ii.md",
     "sha": "df6331d19d612febc05c1925aef4f9762bc1b482",
-    "updated_at": "2026-11-17T12:42:49+08:00"
+    "updated_at": "2026-11-17T12:43:42+08:00"
   },
   {
     "tags": [
@@ -23,7 +36,7 @@
     "excerpt": "~Not sure where to start when building a Carrd site? Learn how to choose a background style and set up the Page element as your starting point.~",
     "path": "posts/where-to-start-i.md",
     "sha": "40fab8ee51d3f8c8705e7440e870995ded489633",
-    "updated_at": "2026-11-17T12:42:49+08:00"
+    "updated_at": "2026-11-17T12:43:42+08:00"
   },
   {
     "tags": [
@@ -36,7 +49,7 @@
     "excerpt": "~Learn how to show or hide specific Carrd elements on mobile and desktop using CSS media queries, even with a Standard account.~",
     "path": "posts/element-visibility-on-mobile-and-desktop.md",
     "sha": "768a5e9f95608e7e32435c9f0edf652b65324b3b",
-    "updated_at": "2026-11-17T12:42:49+08:00"
+    "updated_at": "2026-11-17T12:43:42+08:00"
   },
   {
     "tags": [
@@ -49,7 +62,7 @@
     "excerpt": "~A simple shortcut to find the fonts and icons you want in Carrd without scrolling through the entire list.~",
     "path": "posts/quickly-find-fonts-and-icons.md",
     "sha": "ecb9ee2edbc511feee8306114ed77b477b1215f7",
-    "updated_at": "2026-11-17T12:42:49+08:00"
+    "updated_at": "2026-11-17T12:43:42+08:00"
   },
   {
     "tags": [
@@ -62,7 +75,7 @@
     "excerpt": "~Learn how to add a simple hover tooltip to Carrd elements using JavaScript or custom attributes.~",
     "path": "posts/set-tooltip-for-desktop-devices.md",
     "sha": "ac146e98256e492c0a30dd6c6183ea11ef764fb7",
-    "updated_at": "2026-11-17T12:42:49+08:00"
+    "updated_at": "2026-11-17T12:43:42+08:00"
   },
   {
     "tags": [
@@ -75,7 +88,7 @@
     "excerpt": "~A quick guide to commonly used CSS properties for customizing Carrd elements.~",
     "path": "posts/commonly-used-css-properties.md",
     "sha": "15759c20655ec298cbd32aa30aa0a83e6acd6d4c",
-    "updated_at": "2026-11-17T12:42:49+08:00"
+    "updated_at": "2026-11-17T12:43:42+08:00"
   },
   {
     "tags": [
@@ -88,7 +101,7 @@
     "excerpt": "~Learn how to target a specific column inside a Carrd container using CSS selectors.~",
     "path": "posts/how-to-select-a-column-in-css.md",
     "sha": "e5e53c256ea9a67013e6050523c532b6a26bc670",
-    "updated_at": "2026-11-17T12:42:49+08:00"
+    "updated_at": "2026-11-17T12:43:42+08:00"
   },
   {
     "tags": [
@@ -101,7 +114,7 @@
     "excerpt": "~Learn how to add a CSS class to a Carrd element when it's clicked using JavaScript.~",
     "path": "posts/add-a-class-to-an-element-in-javascript.md",
     "sha": "390aa6f9c882d12fec6168d82108341a8857d6e1",
-    "updated_at": "2026-11-17T12:42:49+08:00"
+    "updated_at": "2026-11-17T12:43:42+08:00"
   },
   {
     "tags": [
@@ -114,7 +127,7 @@
     "excerpt": "~Learn how to select a Carrd element by its ID and use it in your JavaScript code.~",
     "path": "posts/selecting-an-element-in-javascript.md",
     "sha": "3e94cfeb0823f938dab1ead6ab501bf00dbdc195",
-    "updated_at": "2026-11-17T12:42:49+08:00"
+    "updated_at": "2026-11-17T12:43:42+08:00"
   },
   {
     "tags": [
@@ -127,7 +140,7 @@
     "excerpt": "~Where to place CSS, JavaScript, and HTML when adding custom code to Carrd.~",
     "path": "posts/code-block-embed-position.md",
     "sha": "14f773c02c077e2375e8f1f7eb2ba22ddee5f940",
-    "updated_at": "2026-11-17T12:42:49+08:00"
+    "updated_at": "2026-11-17T12:43:42+08:00"
   },
   {
     "tags": [
@@ -140,7 +153,7 @@
     "excerpt": "~Create a more flexible column-like layout in Carrd using a two-column gallery and a transparent image.~",
     "path": "posts/create-a-column-like-layout.md",
     "sha": "105e038c1199286fefcbd30f2a01255b8995f8f7",
-    "updated_at": "2026-11-17T12:42:49+08:00"
+    "updated_at": "2026-11-17T12:43:42+08:00"
   },
   {
     "tags": [
@@ -154,7 +167,7 @@
     "excerpt": "~Combine Carrd's design flexibility with GitHub's simple content management to create a blog that feels like a natural part of your website.~",
     "path": "posts/intro-pk-blog.md",
     "sha": "6e8440ee54922a498841be0590f7284a8b5289d4",
-    "updated_at": "2026-11-17T12:42:49+08:00"
+    "updated_at": "2026-11-17T12:43:42+08:00"
   },
   {
     "tags": [
@@ -168,6 +181,6 @@
     "excerpt": "~Get your blog up and running on Carrd with GitHub and PK Blog. Follow this step-by-step guide to set up your repository, connect your website, and publish your first article.~",
     "path": "posts/setup-pk-blog.md",
     "sha": "9149b4a046769b59ab51364a253c65843bf08f8c",
-    "updated_at": "2026-11-17T12:42:49+08:00"
+    "updated_at": "2026-11-17T12:43:42+08:00"
   }
 ]
