@@ -3,7 +3,7 @@ title: "Selecting an Element in JavaScript"
 slug: "selecting-an-element-in-javascript"
 date: "2026-11-17"
 tags:
-  - tips
+  - Carrd Tips
 excerpt: "~Learn how to select a Carrd element by its ID and use it in your JavaScript code.~"
 ---
 
