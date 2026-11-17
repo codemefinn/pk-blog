@@ -3,6 +3,19 @@
     "tags": [
       "Carrd Tips"
     ],
+    "title": "Commonly Used CSS Properties",
+    "slug": "commonly-used-css-properties",
+    "date": "2026-11-21",
+    "cover": "",
+    "excerpt": "~A quick guide to commonly used CSS properties for customizing Carrd elements.~",
+    "path": "posts/commonly-used-css-properties.md",
+    "sha": "ed1f300c0c953829ec9aa2bce6efbccea8a0b995",
+    "updated_at": "2026-11-17T12:24:02+08:00"
+  },
+  {
+    "tags": [
+      "Carrd Tips"
+    ],
     "title": "How to Select a Column in CSS",
     "slug": "how-to-select-a-column-in-css",
     "date": "2026-11-20",
@@ -10,7 +23,7 @@
     "excerpt": "~Learn how to target a specific column inside a Carrd container using CSS selectors.~",
     "path": "posts/how-to-select-a-column-in-css.md",
     "sha": "e5e53c256ea9a67013e6050523c532b6a26bc670",
-    "updated_at": "2026-11-17T12:21:33+08:00"
+    "updated_at": "2026-11-17T12:24:02+08:00"
   },
   {
     "tags": [
@@ -23,7 +36,7 @@
     "excerpt": "~Learn how to add a CSS class to a Carrd element when it's clicked using JavaScript.~",
     "path": "posts/add-a-class-to-an-element-in-javascript.md",
     "sha": "390aa6f9c882d12fec6168d82108341a8857d6e1",
-    "updated_at": "2026-11-17T12:21:33+08:00"
+    "updated_at": "2026-11-17T12:24:02+08:00"
   },
   {
     "tags": [
@@ -36,7 +49,7 @@
     "excerpt": "~Learn how to select a Carrd element by its ID and use it in your JavaScript code.~",
     "path": "posts/selecting-an-element-in-javascript.md",
     "sha": "3e94cfeb0823f938dab1ead6ab501bf00dbdc195",
-    "updated_at": "2026-11-17T12:21:33+08:00"
+    "updated_at": "2026-11-17T12:24:02+08:00"
   },
   {
     "tags": [
@@ -49,7 +62,7 @@
     "excerpt": "~Where to place CSS, JavaScript, and HTML when adding custom code to Carrd.~",
     "path": "posts/code-block-embed-position.md",
     "sha": "14f773c02c077e2375e8f1f7eb2ba22ddee5f940",
-    "updated_at": "2026-11-17T12:21:33+08:00"
+    "updated_at": "2026-11-17T12:24:02+08:00"
   },
   {
     "tags": [
@@ -62,7 +75,7 @@
     "excerpt": "~Create a more flexible column-like layout in Carrd using a two-column gallery and a transparent image.~",
     "path": "posts/create-a-column-like-layout.md",
     "sha": "105e038c1199286fefcbd30f2a01255b8995f8f7",
-    "updated_at": "2026-11-17T12:21:33+08:00"
+    "updated_at": "2026-11-17T12:24:02+08:00"
   },
   {
     "tags": [
@@ -76,7 +89,7 @@
     "excerpt": "~Combine Carrd's design flexibility with GitHub's simple content management to create a blog that feels like a natural part of your website.~",
     "path": "posts/intro-pk-blog.md",
     "sha": "6e8440ee54922a498841be0590f7284a8b5289d4",
-    "updated_at": "2026-11-17T12:21:33+08:00"
+    "updated_at": "2026-11-17T12:24:02+08:00"
   },
   {
     "tags": [
@@ -90,6 +103,6 @@
     "excerpt": "~Get your blog up and running on Carrd with GitHub and PK Blog. Follow this step-by-step guide to set up your repository, connect your website, and publish your first article.~",
     "path": "posts/setup-pk-blog.md",
     "sha": "9149b4a046769b59ab51364a253c65843bf08f8c",
-    "updated_at": "2026-11-17T12:21:33+08:00"
+    "updated_at": "2026-11-17T12:24:02+08:00"
   }
 ]
