@@ -10,33 +10,33 @@
     "excerpt": "~Learn how to add a CSS class to a Carrd element when it's clicked using JavaScript.~",
     "path": "posts/add-a-class-to-an-element-in-javascript.md",
     "sha": "33ea22ec03b37cf45ad7d821e3f399578dd4d64b",
-    "updated_at": "2026-11-17T11:28:19+08:00"
+    "updated_at": "2026-11-17T11:29:06+08:00"
   },
   {
     "tags": [
-      "tips"
+      "Carrd Tips"
     ],
     "title": "Code Block Embed Position",
     "slug": "code-block-embed-position",
-    "date": "2026-11-17",
+    "date": "~2026-11-17~",
     "cover": "",
     "excerpt": "~Where to place CSS, JavaScript, and HTML when adding custom code to Carrd.~",
     "path": "posts/code-block-embed-position.md",
-    "sha": "9eeac16c17f85422414aa36c74f173408bd1ffbe",
-    "updated_at": "2026-11-17T11:28:19+08:00"
+    "sha": "c6bd7d8ce653172640087375fdc82cdfaa3bb1b0",
+    "updated_at": "2026-11-17T11:29:06+08:00"
   },
   {
     "tags": [
-      "tips"
+      "Carrd Tips"
     ],
     "title": "Create a Column-Like Layout",
     "slug": "create-a-column-like-layout",
-    "date": "2026-11-17",
+    "date": "~2026-11-17~",
     "cover": "",
     "excerpt": "~Create a more flexible column-like layout in Carrd using a two-column gallery and a transparent image.~",
     "path": "posts/create-a-column-like-layout.md",
-    "sha": "2d80aeb8e1b0ceab0a63e52ddff3e728bb52b346",
-    "updated_at": "2026-11-17T11:28:19+08:00"
+    "sha": "5f6f2872220e75f56ae3405d25bc1e124831cba4",
+    "updated_at": "2026-11-17T11:29:06+08:00"
   },
   {
     "tags": [
@@ -49,7 +49,7 @@
     "excerpt": "~Learn how to select a Carrd element by its ID and use it in your JavaScript code.~",
     "path": "posts/selecting-an-element-in-javascript.md",
     "sha": "109c2e0766424397c0cdae1751dcb704ea9c37a2",
-    "updated_at": "2026-11-17T11:28:19+08:00"
+    "updated_at": "2026-11-17T11:29:06+08:00"
   },
   {
     "tags": [
@@ -62,7 +62,7 @@
     "excerpt": "~Combine Carrd's design flexibility with GitHub's simple content management to create a blog that feels like a natural part of your website.~",
     "path": "posts/intro-pk-blog.md",
     "sha": "1bdfb372d4a61cb632626b7f1abae504a2d9f732",
-    "updated_at": "2026-11-17T11:28:19+08:00"
+    "updated_at": "2026-11-17T11:29:06+08:00"
   },
   {
     "tags": [
@@ -75,6 +75,6 @@
     "excerpt": "~Get your blog up and running on Carrd with GitHub and PK Blog. Follow this step-by-step guide to set up your repository, connect your website, and publish your first article.~",
     "path": "posts/setup-pk-blog.md",
     "sha": "277d49fc5c46c0512377dc8921b943d73157f33d",
-    "updated_at": "2026-11-17T11:28:19+08:00"
+    "updated_at": "2026-11-17T11:29:06+08:00"
   }
 ]
