@@ -1,7 +1,7 @@
 ---
 title: "Add a Class to an Element in JavaScript"
 slug: "add-a-class-to-an-element-in-javascript"
-date: "~2026-11-17~"
+date: 2026-11-19
 tags:
   - Carrd Tips
 excerpt: "~Learn how to add a CSS class to a Carrd element when it's clicked using JavaScript.~"
