@@ -15,23 +15,22 @@ PK Blog 1.1.0 introduces several new features, including scheduled publishing, t
 ## What's New
 
 ### Automatic Features
-
 - **Scheduled Publishing** — Posts with a future `date` are automatically hidden from your Carrd website until their scheduled date. Dates use UTC.
 - **Dynamic Site Title & Description** — When an individual article is loaded, the site title and description are automatically updated using the article's title and excerpt.
 - **Previous & Next Posts** — Links to the previous and next articles are automatically added at the end of each article.
 
 ### Optional Frontmatter
-
 - **Tags** — Add multiple tags to each post to organize content and enable tag filtering.
 - **Pinned Posts** — Pin important articles to keep them at the top of your article list.
 
 ### Additional Features
-
 - **Copy Blocks** — Code blocks now include a copy button. You can also specify a language name after the opening backticks as usual. Syntax highlighting is not currently supported, but this does not affect the copy functionality.
+  ```
+  Like this.
+  ```
 - **Open in New Tab** — Hold `Ctrl` (Windows/Linux) or `⌘ Cmd` (macOS) while clicking an article to open it in a new tab.
 
 ## How to Upgrade from v1.0.1
-
 If you're currently using PK Blog v1.0.1, follow these steps to upgrade to v1.1.0.
 
 1. Open your PK Blog config in Carrd and change the version number to `1.1.0`.
