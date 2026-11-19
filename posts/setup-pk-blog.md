@@ -58,6 +58,7 @@ There are a few additional configuration options you can adjust in the Embed Con
 - `data-pagination` — Carrd element ID for the pagination controls.
 - `data-articles-section` — Carrd section ID for the article list.
 - `data-article-section` — Carrd section ID for an individual article.
+- `data-tags` — Carrd element ID for the tag filtering link.
 - **Other element IDs** — Carrd element IDs used to display article titles, publication dates, and content.
   
 You can customize these settings to match your own Carrd layout. If you're already familiar with Carrd's elements and IDs, you'll know exactly what to do.
