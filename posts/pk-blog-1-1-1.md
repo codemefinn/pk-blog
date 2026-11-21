@@ -1,6 +1,6 @@
 ---
 title: "PK Blog 1.1.1 — Changelog & Upgrade Guide"
-slug: "pk-blog-1-1-0"
+slug: "pk-blog-1-1-1"
 date: 2026-11-19
 excerpt: "~What's new in PK Blog 1.1.1 and how to upgrade from version 1.0.1.~"
 pin: true
