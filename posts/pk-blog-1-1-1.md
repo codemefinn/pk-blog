@@ -42,4 +42,4 @@ If you're currently using PK Blog v1.0.1, follow these steps to upgrade to v1.1.
 4. Set the link label to **All articles** (or the equivalent in your preferred language).
 
 That's it. Your blog is now ready to use the new tag filtering feature.  
-For full syntax and formatting details, see the [What's New in v1.1.1](https://github.com/codemefinn/pk-blog-template#whats-new-in-v111)) section in the PK Blog Template README.
+For full syntax and formatting details, see the [What's New in v1.1.1](https://github.com/codemefinn/pk-blog-template#whats-new-in-v111) section in the PK Blog Template README.
